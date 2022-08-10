@@ -1,16 +1,11 @@
 Programmer/โปรแกรมเมอร์
 PLUS Dental Clinic
 
-Responsibilities:
+Responsibilities/หน้าที่รับผิดชอบ:
     > Gathering data from different sources into one large dataset. To make it easy to use
     > Interpret data, analyze results using statistical techniques and provide ongoing reports
-    > Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality
     > Acquire data from primary or secondary data sources and maintain databases/data systems
-    > Locate and define new process improvement opportunities
-    > Preparing reports for executive and project teams from Generating information and insights from data sets and identifying trends and patterns
-Qualifications:
-    > Bachelor’s degree from an accredited university or college in computer engineer, computer science and related field.
+Qualifications/คุณสมบัติที่ต้องการ:
     > Work experience 0-2 year as a Programmer or in a related field.
     > Knowledge in processes for managing databases and understanding of big data.
     > Knowledge of and experience with programming (Excel VBA or C#)
-    > Can learn of statistical for analyzing datasets (Excel, VBA)
