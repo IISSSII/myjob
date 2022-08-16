@@ -3,9 +3,16 @@ PLUS Dental Clinic
 
 Responsibilities/หน้าที่รับผิดชอบ:
     > Gathering data from different sources into one large dataset. To make it easy to use
+        - รวบรวมข้อมูลจากแหล่งต่าง ๆ ให้เป็นชุดข้อมูลขนาดใหญ่ชุดเดียว เพื่อให้ง่ายต่อการใช้งาน
     > Interpret data, analyze results using statistical techniques and provide ongoing reports
+        - ตีความข้อมูล วิเคราะห์ผลลัพธ์โดยใช้เทคนิคทางสถิติและจัดทำรายงานต่อเนื่อง
     > Acquire data from primary or secondary data sources and maintain databases/data systems
+        - รับข้อมูลจากแหล่งข้อมูลหลักหรือรอง และรักษาฐานข้อมูล/ระบบข้อมูล
+        
 Qualifications/คุณสมบัติที่ต้องการ:
     > Work experience 0-2 year as a Programmer or in a related field.
+        - ประสบการณ์การทำงาน 0-2 ปี ในตำแหน่ง Programmer หรือสาขาที่เกี่ยวข้อง
     > Knowledge in processes for managing databases and understanding of big data.
+        - ความรู้ในการจัดการฐานข้อมูลและความเข้าใจในข้อมูลขนาดใหญ่
     > Knowledge of and experience with programming (Excel VBA or C#)
+        - ความรู้และประสบการณ์การเขียนโปรแกรม (Excel VBA หรือ C#)
